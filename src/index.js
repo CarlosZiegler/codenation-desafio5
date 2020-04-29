@@ -5,7 +5,7 @@ const { getCategories,
 	getProductNameAndCategory,
 	calculateDiscountValue,
 	calculateTotalPrice,
-	calculatePercentage } = require('./helpers')
+	calculatePercentage } = require('./utils/helpers')
 
 
 
